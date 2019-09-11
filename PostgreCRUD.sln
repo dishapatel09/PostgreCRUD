@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PostgreCRUD.Web", "PostgreCRUD.Web\PostgreCRUD.Web.csproj", "{C505C76B-1CD6-40CD-8D28-F376DD6EC19D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C505C76B-1CD6-40CD-8D28-F376DD6EC19D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C505C76B-1CD6-40CD-8D28-F376DD6EC19D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C505C76B-1CD6-40CD-8D28-F376DD6EC19D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C505C76B-1CD6-40CD-8D28-F376DD6EC19D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {780287FD-AC28-4B00-8FBF-D8C1085077D5}
+	EndGlobalSection
+EndGlobal
